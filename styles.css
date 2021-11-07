@@ -1,0 +1,42 @@
+.mypadding{
+  padding: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 35%;
+  /* margin-top: 15%; */
+  /* border: 1px solid black; */
+}
+/* .myh2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 0.5rem;
+  color: gray;
+  font-weight: normal;
+  padding-bottom: 10px;
+} */
+/* label{
+  color: #66BFBF;
+} */
+.logo{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 30px;:
+}
+#rm{
+  margin-top: 20px;
+}
+#p{
+  position: relative;
+}
+#b{
+  position: absolute;
+  right:10px;
+  top: 25px;
+}
+.account{
+  font-family: 'Sacramento', cursive;
+  margin: 0px;
+  font-weight: bold;
+  font-size: 0.9rem;
+
+}
